@@ -1,1 +1,2 @@
-# free-api-collection
+# Free API Collection
+> Collection of some free API for learning purpose.
