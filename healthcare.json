@@ -2,37 +2,37 @@
     {
         "id": 1,
         "title": "Pediatric Care",
-        "description": "some description",
+        "description": "Pediatrics is the specialty of medical science concerned with the physical, mental, and social health of children from birth to young adulthood. Pediatric care encompasses a broad spectrum of health services ranging from preventive health care to the diagnosis and treatment of acute and chronic diseases. Pediatrics is a discipline that deals with biological, social, and environmental influences on the developing child and with the impact of disease and dysfunction on development. Children differ from adults anatomically, physiologically, immunologically, psychologically, developmentally, and metabolically.",
         "image": "https://i.ibb.co/Tk69wKG/pediatric-care.jpg"
     },
     {
         "id": 2,
         "title": "Gynecology Care",
-        "description": "some description",
+        "description": "A gynecologist is a doctor who specializes in female reproductive health. They diagnose and treat issues related to the female reproductive tract. This includes the uterus, fallopian tubes, and ovaries and breasts. Anyone with female organs may see a gynecologist.  80% of those who see one are between 15 to 45 years old. Gynecologists give reproductive and sexual health services that include pelvic exams, Pap tests, cancer screenings, and testing and treatment for vaginal infections.",
         "image": "https://i.ibb.co/j34y3fy/gynecology-care.jpg"
     },
     {
         "id": 3,
         "title": "Cardio Care",
-        "description": "some description",
+        "description": "Cardiac Care Technology measures how well a heart is functioning and can monitor heart rate. Technicians here measure how well a patient's heart is functioning. Cardiac care technicians are the medical professionals who administer various tests that assist the doctor in diagnosis.Cardiac care technicians assist physicians during invasive cardiovascular testing, where a tube is inserted into one of the blood vessels that carry blood into the heart. Once doctors insert the catheter, technicians monitor patients' heart rates and blood pressure, looking for any signs of trouble or distress.",
         "image": "https://i.ibb.co/KXGxBxM/cardio-care.jpg"
     },
     {
         "id": 4,
         "title": "Nephrology Care",
-        "description": "some description",
+        "description": "Nephrology is the subspecialty of internal medicine that focuses on the diagnosis and treatment of diseases of the kidney. Because the kidney performs so many critical functions, nephrologists maintain expertise in primary kidney disorders, but also the management of the systemic consequences of kidney dysfunction. Although the prevention and identification and management of early kidney disease is a large part of general internal medicine practice, nephrologists are usually called upon to assist and manage more complex or advanced nephrologic disorders.",
         "image": "https://i.ibb.co/0mNLZMn/nephrology-care.jpg"
     },
     {
         "id": 5,
         "title": "Dental Care",
-        "description": "some description",
+        "description": "Good dental or oral care is important to maintaining healthy teeth, gums and tongue. Oral problems, including bad breath, dry mouth, canker or cold sores, TMD, tooth decay, or thrush are all treatable with proper diagnosis and care. Dental and oral health is an essential part of your overall health and well-being. Poor oral hygiene can lead to dental cavities and gum disease, and has also been linked to heart disease, cancer, and diabetes.",
         "image": "https://i.ibb.co/yyVc67F/dental-care.jpg"
     },
     {
         "id": 6,
         "title": "Hematology Care",
-        "description": "some description",
+        "description": "Hematology is a branch of medicine concerned with the study of blood, blood disease and the organs involved in forming blood. The diagnosis and treatment of hematological disorders is mainly managed by specialists in the field referred to as hematologists. Some of the conditions treated by hematologists are described below.",
         "image": "https://i.ibb.co/4WXCkg3/hematology-care.jpg"
     }
 ]
