@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Pediatric Care",
+        "description": "some description",
+        "image": "https://i.ibb.co/Tk69wKG/pediatric-care.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Gynecology Care",
+        "description": "some description",
+        "image": "https://i.ibb.co/j34y3fy/gynecology-care.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Cardio Care",
+        "description": "some description",
+        "image": "https://i.ibb.co/KXGxBxM/cardio-care.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Nephrology Care",
+        "description": "some description",
+        "image": "https://i.ibb.co/0mNLZMn/nephrology-care.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Dental Care",
+        "description": "some description",
+        "image": "https://i.ibb.co/yyVc67F/dental-care.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Hematology Care",
+        "description": "some description",
+        "image": "https://i.ibb.co/4WXCkg3/hematology-care.jpg"
+    }
+]
